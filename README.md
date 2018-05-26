@@ -10,16 +10,16 @@ Il trattamento riguarda i dati dell’interessato appartenenti ad altre organizz
 Interessa dati *non particolari* necessari all’identificazione e alla conseguente autorizzazione all’accesso dell'interessato alla rete eduroam.
 
 # c1. Categorie di interessati
-## IdP
+### IdP
 Studenti, Docenti, Ricercatori, Personale TA, Affiliati esterni con contratto di fornitura
-## SP
+### SP
 Persone omologhe identificate da enti di ricerca e istruzione federati eduroam a livello mondiale
 
 # c2. Categorie di dati personali
 ### IdP
 - **Personali identificativi**: Username, Mac Address, indirizzo IP
 - **Correlati**: Istituzione di appartenenza, quantità di dati scambiati, nome AP di autenticazione, timestamp
-##à SP
+### SP
 Username (eventualmente anonimizzato), mac address, IP address, timestamp, eventuali altre informazioni fornite su decisione dell’IdP della Home Institution
 
 # d. Categorie di destinatari (trasferimento)
