@@ -16,18 +16,16 @@ Studenti, Docenti, Ricercatori, Personale TA, Affiliati esterni con contratto di
 Persone omologhe identificate da enti di ricerca e istruzione federati eduroam a livello mondiale
 
 # c2. Categorie di dati personali
-
-## IdP
+### IdP
 - **Personali identificativi**: Username, Mac Address, indirizzo IP
 - **Correlati**: Istituzione di appartenenza, quantità di dati scambiati, nome AP di autenticazione, timestamp
-
-## SP
+##à SP
 Username (eventualmente anonimizzato), mac address, IP address, timestamp, eventuali altre informazioni fornite su decisione dell’IdP della Home Institution
 
 # d. Categorie di destinatari (trasferimento)
-## IdP
+### IdP
 Organizzazioni federate eduroam a cui il dispositivo dell’interessato si collega o si è collegato
-## SP
+### SP
 Organizzazioni federate eduroam a cui il dispositivo dell’interessato chiede di garantire l’accesso dalle reti eduroam della nostra organizzazione.
 
 # e. Trasferimento extra UE (paesi terzi e org. internazionali)
