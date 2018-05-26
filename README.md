@@ -35,8 +35,8 @@ Organizzazioni federate eduroam a cui il dispositivo dell’interessato chiede d
 - Richiesta di organi di polizia
 
 # f. Periodo di conservazione dei dati (data retention)
-- 3 mesi online per attività di troubleshooting, analisi di funzionamento del servizio, azioni di blocco account/dispositivo su segnalazione dei CERT e NRO
-- Archiviazione per massimo 5 mesi offline per ragioni tecniche di backup di sistema
+- 6 mesi online per attività di troubleshooting, analisi di funzionamento del servizio, azioni di blocco account/dispositivo su segnalazione dei CERT e NRO (Regolamento della Federazione Italiana eduroam 2.1 maggio 2016)
+- Archiviazione per massimo 7 mesi offline per ragioni tecniche di backup di sistema
 
 # g. Descrizione generale delle misure di sicurezza tecniche e organizzative
 ## ga. Pseudonimizzazione e la cifratura dei dati personali;
@@ -70,9 +70,9 @@ vedi Registro del trattamento lettera a
 - [Riportare eventuale base giuridica del trattamento.]
 
 ## Categoria di dati personali necessari per l’erogazione del servizio
-### IdP (utenti di questa organizzazione)
-- Username (outer e inner), mac address
-### SP (utenti ospiti)
+### IdP (utenti di questa organizzazione durante il roaming)
+- Username (outer e inner), Calling-station-id (mac address)
+### SP (utenti propri e ospiti presso questa organizzazione)
 - Username (outer), mac address, IP address, nome della rete, dati di performance e posizionamento
 ### Ulteriori dati raccolti
 I seguenti dati sono raccolti dalle infrastrutture wireless e sebbene non siano di nostro interesse, siamo tecnicamente costretti a trattarli ugualmente:
