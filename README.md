@@ -1,5 +1,9 @@
 ### esempio di Registro del Trattamento per SP e IdP eduroam
 
+Nome e dati di contatto del titolare del trattamento:
+
+Nome e dti di contatto del RPD (DPO):
+
 # Natura del trattamento
 
 Il trattamento riguarda i dati dell’interessato appartenenti ad altre organizzazioni federate eduroam che si collega alla rete Wi-Fi di questa organizzazione ovvero quelli dell’interessato avente una identità digitale presso questa organizzazione e che si collega alla rete eduroam all’interno di questa organizzazione o di altre federate eduroam.
@@ -7,7 +11,7 @@ Interessa dati *non particolari* necessari all’identificazione e alla consegue
 
 ---
 
-# Natura dei dati
+# Categorie di dati personali
 
 ## IdP
 - **Personali identificativi**: Username, Mac Address, indirizzo IP
