@@ -1,4 +1,4 @@
-### esempio di Registro del Trattamento per SP e IdP eduroam
+### esempio di Registro del Trattamento per RP e IdP eduroam
 GDPR Art. 30 L 119/52 Gazzetta ufficiale dell'Unione europea 4.5.2016
 
 # a. Dati di contatto
@@ -12,20 +12,20 @@ Interessa dati *non particolari* necessari all’identificazione e alla consegue
 # c1. Categorie di interessati
 ### IdP
 Studenti, Docenti, Ricercatori, Personale TA, Affiliati esterni con contratto di fornitura
-### SP
+### RP
 Persone omologhe identificate da enti di ricerca e istruzione federati eduroam a livello mondiale
 
 # c2. Categorie di dati personali
 ### IdP
 - **Personali identificativi**: Username, Mac Address, indirizzo IP
 - **Correlati**: Istituzione di appartenenza, quantità di dati scambiati, nome AP di autenticazione, timestamp
-### SP
+### RP
 Username (eventualmente anonimizzato), mac address, IP address, timestamp, eventuali altre informazioni fornite su decisione dell’IdP della Home Institution
 
 # d. Categorie di destinatari (trasferimento)
 ### IdP
 Organizzazioni federate eduroam a cui il dispositivo dell’interessato si collega o si è collegato
-### SP
+### RP
 Organizzazioni federate eduroam a cui il dispositivo dell’interessato chiede di garantire l’accesso dalle reti eduroam della nostra organizzazione.
 
 # e. Trasferimento extra UE (paesi terzi e org. internazionali)
@@ -55,7 +55,7 @@ Gli amministratori di sistema, individuati in numero di 4 hanno accessi distinti
 # Addendum per la generazione dell'informativa
 Art 13 commi 1 e 2 (IdP)
 
-Art 14 commi 1 e 2 (SP)
+Art 14 commi 1 e 2 (RP)
 
 Da pubblicare, ma è impossibile avere un consenso esplicito o  somministrarla al primo accesso o prima di esso.
 
@@ -70,7 +70,7 @@ vedi Registro del trattamento lettera a
 ## Categoria di dati personali necessari per l’erogazione del servizio
 ### IdP (utenti di questa organizzazione durante il roaming)
 - Username (outer e inner), Calling-station-id (mac address)
-### SP (utenti propri e ospiti presso questa organizzazione)
+### RP (utenti propri e ospiti presso questa organizzazione)
 - Username (outer), mac address, IP address, nome della rete, dati di performance e posizionamento
 ### Ulteriori dati raccolti
 I seguenti dati sono raccolti dalle infrastrutture wireless e sebbene non siano di nostro interesse, siamo tecnicamente costretti a trattarli ugualmente:
@@ -110,7 +110,7 @@ In caso tu sia un nostro utente, sei obbligato ad identificrti attraverso il tuo
 I dati di collegamento possono inoltre essere utilizzati dal titolare in maniera aggregata per attività di troubleshooting, e statistiche sulla tipologia di dispositivi e utenti collegati.
 
 ## Fonte dei dati
-### SP (utenti ospiti)
+### RP (utenti ospiti)
 - Servizio eduroam della propria organizzazione
 
 # Modalità dell’informativa
