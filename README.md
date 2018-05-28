@@ -62,6 +62,7 @@ Non siamo tenuti a richiedere un consenso esplicito in quanto:
 1. Stiamo agendo sotto contratto eduroam.
 2. Art 6 comma 1 capo e: Trattamento necessario per l'esecuzione di un compito di interesse pubblico o connesso all'esercizio di pubblici poteri di cui è investito il titolare del trattamento.
 3. Art 6 comma 1 capo f: Trattamento nel legittimo interesse del titolare
+4. Art. 14 comma 5 capo b. Comunicazione impossibile.
 
 ## Dati di contatto
 vedi Registro del trattamento lettera a
@@ -99,27 +100,27 @@ I seguenti dati sono raccolti dalle infrastrutture wireless e sebbene non siano 
 vedi Registro del trattamento lettera f
 
 ## Diritti dell'interessato
-L'interessato ha il diritto di chiedere al titolare del trattamento:
+Come interessato hai il diritto di chiedere al titolare del trattamento:
 - l'accesso ai dati personali dietro identificazione de visu
 - la rettifica (non applicabile)
 - la cancellazione (conflitto con legittimi interessi del titolare e possibilità tecniche)
-- la limitazione del trattamento (obiezione pertinente e motivata)
-- opporsi al trattamento (tramite obiezione pertinente e motivata)
-- diritto alla portabilità dei dati (non applicabile, dimostrare l'interesse)
+- la limitazione del trattamento (obiezione pertinente e motivata/non applicabile)
+- opporsi al trattamento (tramite obiezione pertinente e motivata/non applicabile)
+- diritto alla portabilità dei dati (non applicabile, dimostrare l'interesse, eventulmente copia)
 
-L'interessato ha il diritto di proporre reclamo a un'autorità di controllo;
+Come interessato, hai il diritto di proporre reclamo a un'autorità di controllo;
 
-In caso tu sia un nostro utente, sei obbligato ad identificarti attraverso il tuo account per accedere al servizio. Per il contratto che ci lega alla federazione eduroam non possiamo fornirti il servizio altrimenti.
+In caso tu sia un nostro utente, sei obbligato ad identificarti attraverso il tuo account per accedere al servizio. Per il contratto che ci lega alla federazione eduroam, non possiamo fornirti il servizio altrimenti.
 
 I dati di collegamento possono inoltre essere utilizzati dal titolare in maniera aggregata per attività di troubleshooting, e statistiche sulla tipologia di dispositivi e utenti collegati.
 
 ## Fonte dei dati
 ### RP (utenti ospiti)
-- Servizio eduroam della propria organizzazione
+- Servizio eduroam dell'organizzazione che ti ha fornito l'account con cui stai accedendo.
 
 # Modalità dell’informativa
 Asincrona, pubblicata su https://eduroam.<miaorganizzazione>.it/ senza consenso esplicito in quanto legati da contratto con NRO (un consenso esplicito preventivo violerebbe la eduroam policy)
 
-Ai sensi del Regolamento Europeo L 119/52 Art. 14 comma 5 capo b
+Ai sensi del Regolamento Europeo L 119/52 Art. 14 comma 5 capo b. Comunicazione impossibile.
 
 ---
