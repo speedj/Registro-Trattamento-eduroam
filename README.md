@@ -57,7 +57,11 @@ Art 13 commi 1 e 2 (IdP)
 
 Art 14 commi 1 e 2 (RP)
 
-Da pubblicare, ma è impossibile avere un consenso esplicito o  somministrarla al primo accesso o prima di esso.
+Da pubblicare, ma è impossibile avere un consenso esplicito o  somministrarla al primo accesso o prima di questo.
+Non siamo tenuti a richiedere un consenso esplicito in quanto:
+1. Stiamo agendo sotto contratto eduroam.
+2. Art 6 comma 1 capo e: Trattamento necessario per l'esecuzione di un compito di interesse pubblico o connesso all'esercizio di pubblici poteri di cui è investito il titolare del trattamento.
+3. Art 6 comma 1 capo f: Trattamento nel legittimo interesse del titolare
 
 ## Dati di contatto
 vedi Registro del trattamento lettera a
@@ -69,27 +73,27 @@ vedi Registro del trattamento lettera a
 
 ## Categoria di dati personali necessari per l’erogazione del servizio
 ### IdP (utenti di questa organizzazione durante il roaming)
-- Username (outer e inner), Calling-station-id (mac address)
+- Username (outer e inner), Calling-station-id (indirizzo fisico della scheda di rete)
 ### RP (utenti propri e ospiti presso questa organizzazione)
-- Username (outer), mac address, IP address, nome della rete, dati di performance e posizionamento
+- Username (outer), indirizzo fisico della scheda di rete, indirizzo IP, nome della rete a cui ci si collega, dati riguardanti le prestazioni, dati di posizionamento geografico
 ### Ulteriori dati raccolti
 I seguenti dati sono raccolti dalle infrastrutture wireless e sebbene non siano di nostro interesse, siamo tecnicamente costretti a trattarli ugualmente:
-- Net Application Profile
+- Net Application Profile (uso della rete suddiviso per applicazione)
 - Sistema operativo utilizzato
 
 ## Legittimi interessi del Titolare
 - Perseguire il buon funzionamento del servizio per tutti e soli gli interessati aventi diritto, effettuare statistiche d'uso su base aggregata del servizio per lo stesso fine.
-- Garantire la disponibilità della rete dell'organizzazione.
+- Garantire la disponibilità e sicurezza della rete dell'organizzazione.
 - Difesa in caso di contenziosi.
 - ...
 
 ## Categorie di destinatari
 - NRO, CERT e organizzazioni aderenti ad eduroam
-- Autorità inquirenti su richiesta.
+- Autorità pubbliche su richiesta circoscritta.
 
 ## Trasferimento extra UE (paesi terzi e org. internazionali)
 - vedi Registro del trattamento lettera e
-- Decisione di adeguatezza della Commissione assente in quanto legati a questo comportamento da contratto eduroam.
+- Decisione di adeguatezza della Commissione assente in quanto legati a questo trattamento da contratto eduroam.
 
 ## Periodo di conservazione dei dati (data retention)
 vedi Registro del trattamento lettera f
@@ -105,7 +109,7 @@ L'interessato ha il diritto di chiedere al titolare del trattamento:
 
 L'interessato ha il diritto di proporre reclamo a un'autorità di controllo;
 
-In caso tu sia un nostro utente, sei obbligato ad identificrti attraverso il tuo account per accedere al servizio. Per il contratto che ci lega alla federazione eduroam non possiamo fornirti il servizio altrimenti.
+In caso tu sia un nostro utente, sei obbligato ad identificarti attraverso il tuo account per accedere al servizio. Per il contratto che ci lega alla federazione eduroam non possiamo fornirti il servizio altrimenti.
 
 I dati di collegamento possono inoltre essere utilizzati dal titolare in maniera aggregata per attività di troubleshooting, e statistiche sulla tipologia di dispositivi e utenti collegati.
 
